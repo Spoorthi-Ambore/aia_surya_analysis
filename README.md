@@ -6,7 +6,6 @@ This repository is created to save the python codes used for the UAH SPARC Proje
 #!/usr/bin/env python3
 # for original l1.5 images.
 
-\`\`\`python 
 import os
 import numpy as np
 import matplotlib.pyplot as plt
@@ -16,7 +15,6 @@ from matplotlib.colors import LogNorm
 import sunpy.visualization.colormaps as cm
 
 %matplotlib qt
-\`\`\`
 
 # ---------------- CONFIG ----------------
 \`\`\`python 
